@@ -1,0 +1,32 @@
+<key-list>
+<key path='HKLM\Software\Hewlett-Packard\Virtual Connect Enterprise Manager\Settings'>
+<string-list>
+<string name='checkVCDomain' data='true'></string>
+<string name='InstallationStatus' data='Success'></string>
+<string name='InstallPath' data='C:\Program Files\HP\Virtual Connect Enterprise Manager\'></string>
+<string name='installType' data='standalone'></string>
+<string name='language' data='en'></string>
+<string name='Version' data='latestBuild'></string>
+</string-list>
+</key>
+<key path='HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\HP Virtual Connect Enterprise Manager_is1'>
+<string-list>
+<string name='Comments' data='HP Virtual Connect Enterprise Manager installer'></string>
+<string name='HelpLink' data='http://www.hp.com'></string>
+<string name='Inno Setup: Deselected Tasks' data='desktopicon'></string>
+<string name='Inno Setup: Icon Group' data='VCEM'></string>
+<string name='InstallLocation' data='C:\Program Files\HP\Virtual Connect Enterprise Manager\'></string>
+<string name='Publisher' data='Hewlett-Packard Computer Corporation'></string>
+<string name='QuietUninstallString' data='"C:\Program Files\HP\Virtual Connect Enterprise Manager\unins000.exe" /SILENT /SUPRESSMSGBOXES'></string>
+<string name='UninstallString' data='"C:\Program Files\HP\Virtual Connect Enterprise Manager\unins000.exe"'></string>
+<string name='URLInfoAbout' data='http://www.hp.com/'></string>
+<string name='URLUpdateInfo' data='http://www.hp.com'></string>
+</string-list>
+</key>
+</key-list>
+
+
+			
+
+
+

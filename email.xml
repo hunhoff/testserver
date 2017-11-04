@@ -1,0 +1,35 @@
+<email>
+<smtpName>16.127.96.101</smtpName>
+<msgTxt>Hi Folks, 
+
+The VCEM 1.1 Automated Test Results for the Virtual Machine Test Server '$ts' can be found at: 
+$html
+
+The detailed logs can be found at: 
+$ftp
+
+Regards,
+Alessandro Hunhoff
++55 51 21213659
+alessandro.hunhoff@hp.com 
+http://www.hp.com.br 
+
+</msgTxt>
+<subjectTxt>[TEST SERVER] VCEM 1.1 Automated Test Results</subjectTxt>
+<fromAddress>alessandro.hunhoff@hp.com</fromAddress>
+<toAddress-list>
+<toAddress>alessandro.hunhoff@hp.com</toAddress>
+</toAddress-list>
+</email>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+<testresult-list>
+<testresult>
+<name>MAT-55</name>
+<description>User Rights - Full Rights User</description>
+<result>PASS</result>
+<comment-list>
+<comment>Successful Login Test!</comment>
+</comment-list>
+</testresult>
+<testresult>
+<name>MAT-55</name>
+<description>User Rights - Read Only User</description>
+<result>PASS</result>
+<comment-list>
+<comment>Successful Login Test!</comment>
+</comment-list>
+</testresult>
+<testresult>
+<name>MAT-94</name>
+<description>getCMSConfigPath</description>
+<result>PASS</result>
+<comment-list>
+<comment> VCEM Config Path matches with HPSIM Config Path!</comment>
+</comment-list>
+</testresult>
+<testresult>
+<name>MAT-66</name>
+<description>Assign Profile</description>
+<result>PASS</result>
+<comment-list>
+<comment> Profile Assigned Successfuly!!</comment>
+</comment-list>
+</testresult>
+<testresult>
+<name>MAT-65</name>
+<description>Assign User Right - Read Only User</description>
+<result>PASS</result>
+<comment-list>
+<comment> Test Pass --> java.rmi.RemoteException: System error while invoking method on CMS: [key code] = {2802} - [message] = {This action cannot be performed because the current user has read-only privileges.}</comment>
+</comment-list>
+</testresult>
+</testresult-list>

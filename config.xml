@@ -1,0 +1,23 @@
+<CONFIG>
+<BUILD>latestBuild</BUILD>
+<PROXY_HOST></PROXY_HOST>
+<PROXY_PORT></PROXY_PORT>
+<VCEM_INSTALL_PATH>C:\Program Files\HP\Virtual Connect Enterprise Manager\</VCEM_INSTALL_PATH>
+<HPSIM_INSTALL_PATH>C:\Program Files\HP\Systems Insight Manager\</HPSIM_INSTALL_PATH>
+<DBPWD>hpcomplab</DBPWD>
+<INSTALLTYPE>standalone</INSTALLTYPE>
+<LANGID>en</LANGID>
+<ENV_VAR_NAME>VCEM_INSTALL</ENV_VAR_NAME>
+<ENV_VAR_VALUE>C:\Program Files\HP\Virtual Connect Enterprise Manager\</ENV_VAR_VALUE>
+<TS_NAME>TSEER2SP2</TS_NAME>
+<TS_PATH>C:\TestServer\</TS_PATH>
+<URL>http://brpoacscm8:8080/</URL>
+<PROJECT>Yeti1.10</PROJECT>
+<FILE_LIST>C:\TestServer\fileList.txt</FILE_LIST>
+<WEBSERVER_ADDRESS>http://10.0.91.231/</WEBSERVER_ADDRESS>
+<WEBSERVER_EXT_ADDRESS>http://yeti-webserver.americas.cpqcorp.net/</WEBSERVER_EXT_ADDRESS>
+<QTPSERVER_SSH>ssh Administrator@10.0.91.231</QTPSERVER_SSH>
+<QTPFILE>C:\QTPTests\QTPTest.vbs</QTPFILE>
+<QTPLOGFILE>C:\qtpresults.xml</QTPLOGFILE>
+<QTPRESULTSFILE>C:\qtpresults.txt</QTPRESULTSFILE>
+</CONFIG>

@@ -1,0 +1,14 @@
+<tests>
+<installation>yes</installation>
+<DeployedFiles>yes</DeployedFiles>
+<InstLog>yes</InstLog>
+<InstRegKeys>yes</InstRegKeys>
+<InstVCEMOutput>yes</InstVCEMOutput>
+<InstEnvVars>yes</InstEnvVars>
+<QTPTests>yes</QTPTests>
+<Uninstallation>yes</Uninstallation>
+<RemovedFiles>yes</RemovedFiles>
+<UninstLog>yes</UninstLog>
+<UninstRegKeys>yes</UninstRegKeys>
+<UninstEnvVars>yes</UninstEnvVars>
+</tests>

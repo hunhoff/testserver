@@ -1,0 +1,54 @@
+Test Server
+==============
+
+Release: 1.023 
+Date:	 <MM DD, YY>
+
+
+1. Release Contents	    
+===================
+<Describe the files and/or components included on the release package>
+
+2. Installation Details
+=======================
+<Describe the basic steps to install or run the application>
+
+3. Supported OS and Platforms
+=============================
+<Describe on this field:
+	- Supported OS versions
+	- Supported OS languages
+	- Supported Hardware Systems
+	- Supported Hardware Devices (cards, storages, etc)
+	- Supported Firmware Versions (System, Cards, Devices, etc)
+	- Additional Supported Environment information>
+
+4. Changes / News
+=================
+<Import this information from the Internal Release Notes from development team, reviewing it>
+
+5. Qualification Status
+=======================
+<Describe on this field:
+	- Environment used for testing (System, OS, Devices, FW versions if applicable, etc)
+	- Type of testing (Full test, sanity check, smoke test, quick test, acceptance test, etc)
+	- Test Plan version if applicable>
+
+6. Defects
+==========
+
+6.1. Known Bugs
+===============
+<Include a list with all the defects opened (from reported to fixed without solution verified) on the Bugtracking tool, including the ID, Summary, Severity and Status. This list may be replaced by a link to the Bugtracking tool (it depends on the customer expectations)>
+
+6.2. Fixed Bugs
+===============
+<Include a list with all the defects fixed with solution verified on this release including the ID, Summary and Severity>
+
+7. Pending Issues
+=================
+<Import this information from the Internal Release Notes from development team, reviewing it. This field should describe the external dependencies of the project that were not already solved>
+
+8. Limitations 
+==============
+<Import this information from the Internal Release Notes from development team, reviewing it>
